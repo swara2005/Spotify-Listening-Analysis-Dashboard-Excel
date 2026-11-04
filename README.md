@@ -51,7 +51,8 @@ The dashboard explores:
 
 ## 📷 Dashboard Preview
 
-Add your dashboard screenshot here.
+<img width="1566" height="886" alt="Spotify Listening Analysis Dashboard" src="https://github.com/user-attachments/assets/8ad16f31-fca7-4c99-a22e-66fe590af2f8" />
+
 
 ## 📁 Project Files
 
